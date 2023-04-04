@@ -1,2 +1,2 @@
 # iokin
-Uma plataforma que possibilita os usuários  a localizar os desenvolvendores
+Uma plataforma que possibilita os usuários  a localizar os devs.
